@@ -1,0 +1,18 @@
+header {
+    padding: 15px;
+    background: #24292F;
+    position: relative;
+    grid-template-columns: 2fr 1fr
+}
+
+.title {
+    text-align: left;
+    color: white;
+    font-size: 30px;
+
+}
+
+.flexbox-container {
+    display: flex;
+
+}

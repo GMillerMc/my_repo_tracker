@@ -1,0 +1,23 @@
+footer {
+width: 100vw;
+position: fixed;
+height: 4vh;
+bottom: 0;
+background-color: whitesmoke;
+padding: 10px;
+font-family: 'Permanent Marker',
+'Lucida Sans',
+'Lucida Sans Regular',
+'Lucida Grande',
+'Lucida Sans Unicode',
+Geneva,
+Verdana,
+sans-serif;
+}
+
+.footer-text {
+    text-align: left;
+    color: #24292F;
+    font-size: 10px;
+
+}

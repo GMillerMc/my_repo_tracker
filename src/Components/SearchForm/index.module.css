@@ -1,0 +1,45 @@
+.icon {
+    position: absolute;
+    left: 170px;
+    top: 8px;
+}
+
+.form {
+    position: relative;
+    margin: 5px 10px 20px;
+    padding: 10px;
+
+}
+
+.btn {
+    background-color: whitesmoke;
+    color: #24292F;
+    border-radius: 5px;
+    margin-left: 10px;
+    
+}
+
+.btn:hover {
+    animation: hoverShake 0.20s linear 3;
+    }
+    
+    @keyframes hoverShake {
+        0% {
+            transform: skew(0deg, 0deg);
+        }
+        25% {
+            transform: skew(5deg, 5deg);
+        }
+        75% {
+            transform: skew(-5deg, -5deg);
+        }
+        100% {
+            transform: skew(0deg, 0deg);
+        }
+    }
+
+
+p {
+    margin-left: 20px;;
+}
+

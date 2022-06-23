@@ -1,0 +1,31 @@
+.card {
+    border: 3px solid rgb(95, 95, 95);
+    margin: 10px 10px 0;
+    padding: 20px;
+    line-height: 1em;
+}
+
+.card:hover {
+    box-shadow: 8px 8px 8px grey;
+    transform: scale(1.01);
+}
+
+.repoName {
+    color: #0969da;
+    text-decoration: none;
+    margin: 0 0 10px 0;
+}
+
+.link {
+    text-decoration: none;
+    color: rgb(56, 56, 56);
+    margin: 0px 10px 0px 5px;
+}
+
+.description {
+    margin: 20px 0;
+}
+
+.date {
+    margin: 20px 0;
+}
